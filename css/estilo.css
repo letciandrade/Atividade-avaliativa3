@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+background-color: #fff;
+position: absolute;
+width: 1280px;
+height: 100px;
+left: 0px;
+top: 0px;
+}
+
+#titulo{
+position: absolute;
+width: 221px;
+height: 32.23px;
+left: 37px;
+top: 33.88px;
+
+font-family: 'Inter';
+font-style: normal;
+font-size: 32px;
+}
+
+.area-navegacao{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 11px 0px;
+gap: 29px;
+
+position: absolute;
+width: 293px;
+height: 42.15px;
+left: 493px;
+top: 28.93px;
+}
+
+ .home, .favoritos, .login{
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: #000000;
+}
+
+#foto1{
+    box-sizing: border-box;
+    position: absolute;
+    left: 0.7px;
+    top: 100px;
+}
+#foto2{
+    box-sizing: border-box;
+    position: absolute;
+    
+    left: 39.5rem;
+    top: 100px;
+}
+
+#foto3{
+    box-sizing: border-box;
+    position: absolute;
+
+    left: 0.7px;
+    top: 56.4rem;
+}
+
+#foto4{
+    box-sizing: border-box;
+    position: absolute;
+
+    left: 19.8rem;
+    top: 56.4rem;
+}
+
+#foto5{
+    box-sizing: border-box;
+    position: absolute;
+
+    left: 39.8rem;
+    top: 56.4rem;
+}
+
+#foto6{
+    box-sizing: border-box;
+    position: absolute;
+
+    left: 59.7rem;
+    top: 56.4rem;
+}
+
+#foto7{
+    box-sizing: border-box;
+    position: absolute;
+
+    left: 0.7px;
+    top:93.9rem ;
+}
+
+#foto8{
+    box-sizing: border-box ;
+    position: absolute;
+
+    left: 26.5rem;
+    top: 93.9rem;
+}
+
+#foto9{
+    box-sizing: border-box;
+    position: absolute;
+
+    left: 53.2rem;
+    top: 93.9rem;
+}
+
+footer{
+background-color: #000000;
+position: absolute;
+width: 1281px;
+height: 294px;
+left: 0.7px;
+top: 2200px;
+
+
+}
+
+footer p{
+color: #fff;
+}
+
+#bem-vestido{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 100px;
+margin-left: 500px;
+}
+
+#direitos-reservados{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+}
+
+
+
